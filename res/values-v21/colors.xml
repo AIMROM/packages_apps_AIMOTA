@@ -27,7 +27,7 @@
     <color name="material_deep_teal_200">#ff5e97f6</color>
     <color name="material_red_500">#fff44336</color>
     <color name="material_red_200">#ffef9a9a</color>
-    <color name="material_blue_grey_800">#ff37474f</color>
+    <color name="material_blue_grey_800">#000000</color>
     <color name="material_blue_grey_900">#ff2d2d2d</color>
     <color name="material_blue_grey_950">#ff242424</color>
     <color name="material_light_green_500">#ff4285f4</color>
